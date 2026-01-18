@@ -1,12 +1,12 @@
 ---
 id: 5
-title: Gregynog 2026
+title: Swansea 2026
 date: 2026-07-02
 author: angelica
 layout: page
 ---
 
-#### **Wales Mathematics Colloquium, Gregynog Hall, Newtown, 18th-20th May 2026**
+#### **Research seminars and colloquia of the mathematics department at Swansea University.**
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
 
