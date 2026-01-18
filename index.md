@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Swansea 2026
+title: Mathematics at Swansea
 date: 2026-07-02
 author: angelica
 layout: page
