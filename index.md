@@ -8,8 +8,7 @@ layout: page
 
 #### **Research seminars and colloquia of the mathematics department at Swansea University.**
 
-This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
-
+Our seminars are usually held on Thursdays in Robert Recorde Room CoFo 102, from 15:00 to 16:00
 <img style="float: center;" src="Bay-Campus-Swansea-large.jpg" width="800pt" alt="photo of Bay Campus Swansea">
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
