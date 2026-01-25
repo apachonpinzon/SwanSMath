@@ -1,19 +1,20 @@
 ---
 id: 5
-title: Mathematics at Swansea
+title: SwanSMath
 date: 2026-07-02
 author: angelica
 layout: page
 ---
 
-#### **Research seminars and colloquia of the mathematics department at Swansea University.**
+#### **Swansea Seminar in Mathematics 2025/26.**
+<!--Research seminars and colloquia of the mathematics department at Swansea University-->
 
 Our seminars are usually held on Thursdays in Robert Recorde Room CoFo 102, from 15:00 to 16:00
 <img style="float: center;" src="Bay-Campus-Swansea-large.jpg" width="800pt" alt="photo of Bay Campus Swansea">
 
-It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
+Please contact [Angelica Pachon] (https://www.swansea.ac.uk/staff/a.y.pachon/) for more information
 
-The following speakers have agreed to give keynote lectures:<BR>
+# **Semester 2.**<BR>
 
 [Professor Victoria Gould (York)](https://www.york.ac.uk/maths/people/victoria-gould/): algebraic semigroup theory <BR>
 
