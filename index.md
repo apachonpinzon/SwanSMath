@@ -17,7 +17,7 @@ Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) fo
 # **Semester 2.**<BR>
 | Date | Speaker | Institution | Tittle |
 | --- | --- | --- | --- |
-| 29/01/26 | Gabriela Jeronimo | Universidad de Buenos Aires | Algorithmic equidimensional decomposition of affine varieties defined by sparse polynomials|
+| 29/01/26 | [Gabriela Jeronimo](https://mate.dm.uba.ar/~jeronimo/) | Universidad de Buenos Aires | Algorithmic equidimensional decomposition of affine varieties defined by sparse polynomials|
 | 19/02/26 | Panagiotis Spanos | Ruhr-Universität Bochum | |
 
 
