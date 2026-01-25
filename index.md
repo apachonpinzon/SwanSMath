@@ -25,11 +25,11 @@ Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) fo
 14/05/26 | [Sabine Jansen](https://www.mathematik.uni-muenchen.de/~jansen/) | LMU München | | Online |
 
 
-[Gabriela Jeronimo (Universidad de Buenos Aires)](https://mate.dm.uba.ar/~jeronimo/): algebraic semigroup theory <BR>
+<!--## [Gabriela Jeronimo (Universidad de Buenos Aires)](https://mate.dm.uba.ar/~jeronimo/): algebraic semigroup theory <BR> -->
 
-[Dr Madalin Guta (Nottingham)](https://www.nottingham.ac.uk/mathematics/people/madalin.guta): quantum statistics and information geometry <BR>
+<!--##[Dr Madalin Guta (Nottingham)](https://www.nottingham.ac.uk/mathematics/people/madalin.guta): quantum statistics and information geometry <BR>
 
-[Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>
+<!--##[Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>-->
 
 <!--- [Professor Jeffrey Giansiracusa (Durham)](https://www.durham.ac.uk/staff/jeffrey-giansiracusa/)<BR>-->
 
