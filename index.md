@@ -12,11 +12,16 @@ layout: page
 Our seminars are usually held on Thursdays in Robert Recorde Room CoFo 102, from 15:00 to 16:00
 <img style="float: center;" src="Bay-Campus-Swansea-large.jpg" width="800pt" alt="photo of Bay Campus Swansea">
 
-Please contact [Angelica Pachon] (https://www.swansea.ac.uk/staff/a.y.pachon/) for more information
+Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) for more information
 
 # **Semester 2.**<BR>
+| Date | Speaker | Institution | Tittle |
+| --- | --- | --- | --- |
+| 29/01/26 | Gabriela Jeronimo | Universidad de Buenos Aires | Algorithmic equidimensional decomposition of affine varieties defined by sparse polynomials|
+| 19/02/26 | Panagiotis Spanos | Ruhr-Universität Bochum | |
 
-[Professor Victoria Gould (York)](https://www.york.ac.uk/maths/people/victoria-gould/): algebraic semigroup theory <BR>
+
+[Gabriela Jeronimo (Universidad de Buenos Aires)](https://mate.dm.uba.ar/~jeronimo/): algebraic semigroup theory <BR>
 
 [Dr Madalin Guta (Nottingham)](https://www.nottingham.ac.uk/mathematics/people/madalin.guta): quantum statistics and information geometry <BR>
 
