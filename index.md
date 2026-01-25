@@ -18,11 +18,11 @@ Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) fo
 | Date | Speaker | Institution | Tittle | Room |
 | --- | --- | --- | --- | --- |
 | 29/01/26 | [Gabriela Jeronimo](https://mate.dm.uba.ar/~jeronimo/) | Universidad de Buenos Aires | Algorithmic equidimensional decomposition of affine varieties defined by sparse polynomials| CoFo 002 |
-| 19/02/26 | Panagiotis Spanos | Ruhr-Universität Bochum | | Online|
-|05/03/26 | Michael Hinz | Bielefeld Universität | | Online |
-|19/03/26 | Bertrand Gauthier | Cardiff Universty | | CoFo 102 |
-30/04/26 | Natasha Blivic | Queen Mary University of London | | CoFo 102|
-14/05/26 | Sabine Jansen | LMU München | | Online |
+| 19/02/26 | [Panagiotis Spanos](https://sites.google.com/view/spanosp) | Ruhr-Universität Bochum | | Online|
+|05/03/26 | [Michael Hinz](https://www.math.uni-bielefeld.de/~mhinz/home.html) | Bielefeld Universität | | Online |
+|19/03/26 | [Bertrand Gauthier](https://profiles.cardiff.ac.uk/staff/gauthierb) | Cardiff Universty | | CoFo 102 |
+30/04/26 | Natasha Blivic(https://www.qmul.ac.uk/maths/profiles/blitvicn.html) | Queen Mary University of London | | CoFo 102|
+14/05/26 | [Sabine Jansen](https://www.mathematik.uni-muenchen.de/~jansen/) | LMU München | | Online |
 
 
 [Gabriela Jeronimo (Universidad de Buenos Aires)](https://mate.dm.uba.ar/~jeronimo/): algebraic semigroup theory <BR>
