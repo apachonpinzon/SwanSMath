@@ -37,9 +37,9 @@ Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) fo
 <!--- [Professor Shahn Majid (Queen Mary University of London)](https://www.qmul.ac.uk/maths/profiles/majids.html).<BR>-->
 
 
-Further talks will also be given by staff and students.
+<!--##Further talks will also be given by staff and students.
 
-The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
+The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University. -->
 
 Registration details to follow closer to the event.
 <!--Registration for the event has now closed.--> 
