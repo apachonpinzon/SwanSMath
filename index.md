@@ -10,7 +10,7 @@ layout: page
 <!--Research seminars and colloquia of the mathematics department at Swansea University-->
 
 Our seminars are held on Thursdays either in person - in Robert Recorde Room CoFo 102 or online - via zoom, from 15:00 to 16:00
-<img style="float: center;" src="BayCampus2.png" width="1000pt" lenght="200pt"alt="photo of Bay Campus Swansea">
+<img style="float: center;" src="BayCampus2.png" width="1000pt" "alt="photo of Bay Campus Swansea">
 
 Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) for more information
 
