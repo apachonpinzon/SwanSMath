@@ -6,7 +6,7 @@ author: angelica
 layout: page
 ---
 
-# **Swansea Seminar in Mathematics 2025/26.**
+# **Swansea Seminar in Mathematics (SwanSMath) 2025/26.**
 <!--Research seminars and colloquia of the mathematics department at Swansea University-->
 
 Our seminars are held on Thursdays either in person - in Robert Recorde Room CoFo 102 or online - via zoom, from 15:00 to 16:00
