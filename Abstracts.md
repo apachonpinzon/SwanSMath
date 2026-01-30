@@ -16,8 +16,8 @@ In this talk, we will discuss recent work on polynomial system solving in the sp
 This is joint work with María Isabel Herrero (Universidad Torcuato Di Tella, Argentina) and Juan Sabia (Universidad de Buenos Aires and CONICET, Argentina).
 
 
-## 2/19/2026Panagiotis Spanos
-
+## Panagiotis Spanos
+2/19/2026
 ### Criticality in Spread-Out Percolation
 
 In this talk we discuss a special model of percolation called spread-out percolation. Let $G$ be a vertex-transitive graph equipped with the graph metric, and let $r>0$ be a range parameter. The spread-out lattice $G_r$ is the graph with the same vertex set as $G$, where two vertices are connected by an edge whenever their distance in $G$ is at most $r$.
