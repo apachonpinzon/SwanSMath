@@ -1,12 +1,14 @@
 ---
 id: 5
-title: SwanSMath 2026
+title: SwanSMath 2025/26
 date: 2026-07-02
 author: angelica
 layout: page
 ---
 
-###**Swansea Seminar in Mathematics (SwanSMath) 2025/26.**
+
+
+###**Swansea Seminar in Mathematics**
 
 <!--Research seminars and colloquia of the mathematics department at Swansea University-->
 
@@ -32,3 +34,6 @@ Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) fo
 | 19/03/26 | [Bertrand Gauthier](https://profiles.cardiff.ac.uk/staff/gauthierb) | Cardiff Universty | | CoFo 102 |
 | 30/04/26 | [Natasha Blivic](https://www.qmul.ac.uk/maths/profiles/blitvicn.html) | Queen Mary University of London | | CoFo 102|
 | 14/05/26 | [Sabine Jansen](https://www.mathematik.uni-muenchen.de/~jansen/) | LMU München | | Online |
+
+
+
