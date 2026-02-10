@@ -1,2 +1,4 @@
-# SwanSMath
-Research seminars and colloquia of the mathematics department at Swansea University.
+# 
+
+# SwanSMath.github.io
+Website for the Swansea Seminar in Mathematics
