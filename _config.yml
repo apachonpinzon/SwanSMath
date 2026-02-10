@@ -35,6 +35,7 @@ exclude:
 excerpt_separator: <!--more-->
 permalink: /:title
 header_pages:
+
 #
 #  - past-meetings.md
 #  - practical.md
