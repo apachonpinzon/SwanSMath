@@ -12,16 +12,11 @@ layout: page
 
 Our seminars are held on Thursdays either in person - in Robert Recorde Room CoFo 102 or online - via zoom, from 15:00 to 16:00
 
-<img style="float: center;" src="Bay-Campus-Swansea-large.jpg" width="1000pt" alt="photo of Bay Campus Swansea">
-
-
+<img style="float: center;" src="Bay-Campus-Swansea-large.jpg" width="800pt" alt="photo of Bay Campus Swansea">
 
 Please contact [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) for more information.
 
-
-
 ## **Semester 2.**<BR>
-
 
 | Date | Speaker | Institution | Tittle | Room |
 | --- | --- | --- | --- | --- |
