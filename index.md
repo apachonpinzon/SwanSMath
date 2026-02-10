@@ -1,6 +1,6 @@
 ---
 id: 5
-title: SwanSMath
+title: SwanSMath 2026
 date: 2026-07-02
 author: angelica
 layout: page
