@@ -1,6 +1,6 @@
 ---
 id: 5
-title: SwanSMath 2025/26
+title: SwanSMath 
 date: 2026-07-02
 author: angelica
 layout: page
@@ -8,7 +8,7 @@ layout: page
 
 
 
-###**Swansea Seminar in Mathematics**
+###**Swansea Seminar in Mathematics 2025/26**
 
 <!--Research seminars and colloquia of the mathematics department at Swansea University-->
 
